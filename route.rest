@@ -1,0 +1,31 @@
+# GET http://localhost:3000/subscribers
+
+# ###
+
+# GET http://localhost:3000/subscribers/612e5a47fa3156481264d3bb
+
+# ###
+
+# POST http://localhost:3000/subscribers
+# Content-Type: application/json
+
+# {
+#     "name": "Ganesha",
+#     "subscriberToChannel" : "FullStack Developer"
+# }
+
+# ###
+
+
+# DELETE  http://localhost:3000/subscribers/612e5a47fa3156481264d3bb
+
+
+# ###
+
+
+# PATCH   http://localhost:3000/subscribers/612e5a0efa3156481264d3b8
+# Content-Type: application/json
+
+# {
+#     "name": "Gani God"
+# }
